@@ -8,6 +8,7 @@
 ## Предыдущий курс
 
 Предыдущий курс: https://github.com/aglabx/masters-course-2024-make-jarvis-workshop
+
 Финальный проект предыдущего курса: https://github.com/ad3002/make_jarvis
 
 ## Пререквизиты (*)
